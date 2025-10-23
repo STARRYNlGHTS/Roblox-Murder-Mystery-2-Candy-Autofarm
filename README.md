@@ -1,6 +1,6 @@
 # Roblox-Murder-Mystery-2-Candy-Autofarm
 
-Make sure to do the following if your injecting, copy and paste the following:
+Make sure to do the following if your executing, copy and paste the following:
 
 _G.tween_speed = 20;
 
